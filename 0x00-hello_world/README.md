@@ -3,5 +3,5 @@
 1-compiler					textfile/plain
 2-assembler					textfile/plain
 3-name						textfile/plain
-4-puts.c					cfile executable
-		
+4-puts.c					c file/executable
+5-printf.c					c file/executable		
