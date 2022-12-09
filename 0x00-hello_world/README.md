@@ -2,4 +2,6 @@
 0-preprocessor					textfile/plain
 1-compiler					textfile/plain
 2-assembler					textfile/plain
-3-name						textfile/plain		
+3-name						textfile/plain
+4-puts.c					cfile executable
+		
