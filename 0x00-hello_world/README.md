@@ -5,3 +5,5 @@
 3-name						textfile/plain
 4-puts.c					c file/executable
 5-printf.c					c file/executable		
+6-size.c					c file/executable
+
