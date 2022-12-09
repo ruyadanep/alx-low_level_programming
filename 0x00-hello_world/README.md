@@ -6,4 +6,4 @@
 4-puts.c					c file/executable
 5-printf.c					c file/executable		
 6-size.c					c file/executable
-
+100-intel					textfile/plain
