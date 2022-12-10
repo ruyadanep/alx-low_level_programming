@@ -21,6 +21,6 @@ int main(void)
 		}
 		num++;
 	}
-	purchar('\n');
+	putchar('\n');
 	return (0);
 }
