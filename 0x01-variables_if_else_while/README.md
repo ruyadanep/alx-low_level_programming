@@ -9,4 +9,6 @@
 7-print_tebahpla.c				c file/executable
 8-print_base16.c				c file/executable
 9-print_comb.c					c file/executable
+100-print_comb3.c				c file/executable
+101-print_comb4.c				c file/executable
 
