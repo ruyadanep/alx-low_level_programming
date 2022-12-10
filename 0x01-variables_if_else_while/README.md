@@ -7,4 +7,6 @@
 5-print_numbers.c				c file/executable
 6-print_numberz.c				c file/executable
 7-print_tebahpla.c				c file/executable
+8-print_base16.c				c file/executable
+9-print_comb.c					c file/executable
 
