@@ -11,4 +11,8 @@
 10-add.c					c file/executable
 11-print_to_98.c				c file/executable
 100-times_table.c				c file/executable
+101-natural.c					c file/executable
+102-fibonacci.c					c file/executable
+103-fibonacci.c					c file/executable
+104-fibonacci.c					c file/executable 
 
