@@ -7,3 +7,8 @@
 5-sign.c					c file/executable
 6-abs.c						c file/executable
 7-print_last_digit.c				c file/executable
+9-times_table.c					c file/executable
+10-add.c					c file/executable
+11-print_to_98.c				c file/executable
+100-times_table.c				c file/executable
+
