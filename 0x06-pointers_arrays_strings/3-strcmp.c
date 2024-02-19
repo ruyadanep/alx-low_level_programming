@@ -3,6 +3,7 @@
 /**
  * _strcmp - Function that compares two strings.
  *
+ * By Ruya Danep
  * @s1: First string
  * @s2: Second string
  * Return: Value less than 0 if string is less than the other
